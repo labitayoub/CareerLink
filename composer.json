@@ -1,0 +1,15 @@
+{
+    "name": "youcode/career-link",
+    "autoload": {
+        "psr-4": {
+            "Youcode\\CareerLink\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "labitayoub",
+            "email": "ayoub.labite@gmail.com"
+        }
+    ],
+    "require": {}
+}
