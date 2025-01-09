@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Youcode\\CareerLink\\' => array($baseDir . '/src'),
+    'App\\' => array($baseDir . '/src'),
 );

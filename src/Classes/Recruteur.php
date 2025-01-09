@@ -1,20 +1,16 @@
 <?php
 
-class Recruteur extends User {
+class Recruteur extends Users {
 
 
-
-    public function __construct($nom,$number_phone,$email_addresse,$password,$role)
+    public function __construct($nom,$email_addresse,$pass,$rolee)
     {
-        parent :: __construct ($nom,$number_phone,$email_addresse,$password,$role);
+        parent :: __construct ($nom,$email_addresse,$pass,$rolee);
     }
 
 
 }
 
 
-
-
-
-
 ?>
+
